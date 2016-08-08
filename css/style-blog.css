@@ -1,0 +1,79 @@
+/* Inserta tu codigo aqui */
+body{
+	 background: #8FED8C;
+}
+
+a{
+	text-decoration: none;
+}
+
+article{
+	background-color: white;
+	height: 280px;
+	margin-top: 2%;
+	padding: 2%;
+}
+
+footer{
+	height: 50px;
+	background-color: #C3F6CC;
+	margin: 0px;
+	padding: 15px 25px;
+}
+
+/* De aqui */
+.blogPost div {
+	column-count: 2;
+	column-gap: 22px;
+	-moz-column-count: 2;
+	-webkit-column-count: 2;
+	-moz-column-gap: 22px;
+	-webkit-column-gap: 22px;
+}
+
+.blogPost header {
+	column-span: all;
+}
+
+.blogPost img {
+	margin: 22px 0px;
+}
+
+.miBlog{
+	float:left;
+	width: 20%;
+	height: 200px;
+}
+
+div.miBlog img{
+	width: 100%;
+	height: 100%;
+}
+
+.miBoton{
+	width: 110px;
+	height: 35px;
+	background-color: #FF7416;
+	display:inline-block;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+	text-decoration:none;
+	border-radius: 5px; /*redondear esquinar de los botones*/
+}
+
+.lateral{
+	clear: both; /* elimina viñetas */
+	float: left;
+	list-style: none;
+	color: blue;
+	font-weight: bold;
+	margin-top: 3%;
+}
+
+.icono {
+    padding: 0px 6px 4px 0px;
+    vertical-align: bottom;
+    height: 25px;
+    width: 25px;
+}

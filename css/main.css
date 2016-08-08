@@ -1,0 +1,17 @@
+/* Inserta tu codigo aqui */
+body{
+	 background: #8FED8C;
+}
+h3{
+	color: #C71F1F;
+
+}
+
+.fondo{
+	background-image: url("../img/fondo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+

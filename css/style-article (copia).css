@@ -1,0 +1,37 @@
+/* Inserta tu codigo aqui */
+body{
+	background: #D02E2E;
+}
+div{
+	background: white;
+}
+
+h1{
+	text-align: center;
+}
+
+header{
+	margin: auto;
+}
+
+.miAside{
+	background: pink;
+}
+
+.compañeros{
+	width: 50%;
+	height: 50%;
+}
+
+.circulo{
+	border-radius: 50%;	
+}
+
+.flotar{
+	float:left;
+}
+
+.centrado{
+	margin: auto;
+}
+
